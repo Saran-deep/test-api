@@ -1,0 +1,21 @@
+{
+  "nextId": 3,
+  "items": [
+    {
+      "id": 1,
+      "book_id": 6,
+      "user_id": 2,
+      "borrowed_at": "2026-09-20T04:12:20.233Z",
+      "due_at": "2026-10-04T04:12:20.233Z",
+      "returned_at": null
+    },
+    {
+      "id": 2,
+      "book_id": 3,
+      "user_id": 2,
+      "borrowed_at": "2026-08-31T04:12:20.233Z",
+      "due_at": "2026-09-14T04:12:20.233Z",
+      "returned_at": "2026-09-10T04:12:20.233Z"
+    }
+  ]
+}

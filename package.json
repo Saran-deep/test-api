@@ -1,0 +1,14 @@
+{
+  "name": "library-api",
+  "version": "1.0.0",
+  "description": "Library management REST API for API-testing practice. Data is stored in JSON files.",
+  "main": "server.js",
+  "private": true,
+  "engines": { "node": ">=18" },
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js",
+    "reset": "node src/seed.js --force",
+    "test": "node --test test/*.test.js"
+  }
+}

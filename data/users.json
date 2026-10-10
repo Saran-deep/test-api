@@ -1,0 +1,221 @@
+{
+  "nextId": 28,
+  "items": [
+    {
+      "id": 1,
+      "name": "Library Admin",
+      "email": "admin@library.test",
+      "role": "admin",
+      "password_hash": "scrypt:9347c1b425d5763647014cddba9e97f9:8d5327c99589b596166c309acb451fc0f782da4b1590e347f23ec21bafd6c131af56e2ed63b9db42b7a241d9f0bacc19bd409d8ba336c42e4ad7dddd22dd03c6",
+      "created_at": "2026-10-10T04:12:20.233Z"
+    },
+    {
+      "id": 2,
+      "name": "Rita Reader",
+      "email": "reader@library.test",
+      "role": "member",
+      "password_hash": "scrypt:8cdc8b379ada9e84c891393ac22ac763:97f93ffdcc7929fe5b9c1521602e4c9e65136484292daa76930af651e47664addb91c53e46a76b1d6b8bbbabc6fa89e4bced6f8320b1c207395688bf4e178726",
+      "created_at": "2026-10-10T04:12:20.233Z"
+    },
+    {
+      "id": 3,
+      "name": "TEST-User local-20261010T064700",
+      "email": "test-happy-path-local-20261010t064700@example.test",
+      "role": "member",
+      "password_hash": "scrypt:3f7fb42fc5cfa207a88145e424b76f61:10cbf762cec2b2f49d3e0c7d6246ea18a61bf23615679919bc36bca3520dc3e0f4bd636fb5877e0d3a0bfd49ea5f7a74f38610fe518a649b9ff773ef3cee3e93",
+      "created_at": "2026-10-10T06:47:01.111Z"
+    },
+    {
+      "id": 4,
+      "name": "TEST-name-max-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+      "email": "test-name-max-length-local-20261010t064700@example.test",
+      "role": "member",
+      "password_hash": "scrypt:074fa43317d6cdf0b6a918cd11749399:b5220fce9dfee1605c6599e26319b5e7d10e7ce4e7c58776721ba30722694c31c21c0a70553ab29e741b7631e2248a7e0b3ec91e7b0a497f52e5ed67726ae4b3",
+      "created_at": "2026-10-10T06:47:01.309Z"
+    },
+    {
+      "id": 5,
+      "name": "TE",
+      "email": "test-name-min-length-local-20261010t064700@example.test",
+      "role": "member",
+      "password_hash": "scrypt:14a646d1362b155ebd6e8e6188d74fd1:d50312de2ddfdffb8a0ad187063c3fbdb3ad6d3d9955818c7b69811a94b4b79e6b22bf1b3363f491076bc176451b1a9d807ae262d2254b0e5480f5b9c4c4818e",
+      "created_at": "2026-10-10T06:47:01.470Z"
+    },
+    {
+      "id": 6,
+      "name": "TEST-User local-20261010T064700",
+      "email": "test-password-max-length-local-20261010t064700@example.test",
+      "role": "member",
+      "password_hash": "scrypt:8489d148e6830eb034c9b46d424841f6:849d78d2af75fc6f713844c3dbedb65d8a432ac18c205358226a8440805abf2b2ce1e28b93944a66b746a98a4fee62516281c7e21f8956e85d7a9410bfe566fb",
+      "created_at": "2026-10-10T06:47:01.626Z"
+    },
+    {
+      "id": 7,
+      "name": "TEST-User local-20261010T064700",
+      "email": "test-password-min-length-local-20261010t064700@example.test",
+      "role": "member",
+      "password_hash": "scrypt:ae95253f926ea3c66f34d713d1427d8f:d11a41412c8a0fa91522dceade2bac3e4b7273ac580b0ac0e9e8ee9927897ed63c3c1e36e4c54710a70cfd4678e8929d8d2c1e7eac79b328dcb0cd73500f4da2",
+      "created_at": "2026-10-10T06:47:01.791Z"
+    },
+    {
+      "id": 8,
+      "name": "TEST-User local-20261010T064703",
+      "email": "test-happy-path-local-20261010t064703@example.test",
+      "role": "member",
+      "password_hash": "scrypt:13168cf2b4b0bae648da5b1586d7754e:0053a32818be95ac2095ad8bb8206a2e9a175270c1cf86360acd778c4811dd3aaabd96d5f89f1e2563cd02a1957f5c9fb04bceadc241ce6f63d7fafe45c4b8db",
+      "created_at": "2026-10-10T06:47:03.468Z"
+    },
+    {
+      "id": 9,
+      "name": "TEST-name-max-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+      "email": "test-name-max-length-local-20261010t064703@example.test",
+      "role": "member",
+      "password_hash": "scrypt:5bb24d2d1b497da63bd65434a26c6cd8:252d3761dbbac6a9ab4bf014f5217fbfb9e9ea68e697d7179007f9bffbc7677ac82e9f0b2bd7ae12d212966b0906e1a5c80aaef3d82434c03a60bba149a4e0e5",
+      "created_at": "2026-10-10T06:47:03.628Z"
+    },
+    {
+      "id": 10,
+      "name": "TE",
+      "email": "test-name-min-length-local-20261010t064703@example.test",
+      "role": "member",
+      "password_hash": "scrypt:b9771dcea988a085edb3cb7f6f733576:4443f587c14f80df42e422394b98502a6dbd9241b96b044aa3380e4d7326baecc80cc9245043631282488e2923f2cd41bb8bf231b801045b0fac5baae5530d50",
+      "created_at": "2026-10-10T06:47:03.769Z"
+    },
+    {
+      "id": 11,
+      "name": "TEST-User local-20261010T064703",
+      "email": "test-password-max-length-local-20261010t064703@example.test",
+      "role": "member",
+      "password_hash": "scrypt:453ee6d7e41bf56abff1f5d0b12fe1cb:797a1802feb4abca26a46eda6d7a3871f61ec6b7a8228d0518b29c726c073544f738c7e010e9eac3427a9d7277414e96a1f59280aaadd927c23be7b993056c3d",
+      "created_at": "2026-10-10T06:47:03.893Z"
+    },
+    {
+      "id": 12,
+      "name": "TEST-User local-20261010T064703",
+      "email": "test-password-min-length-local-20261010t064703@example.test",
+      "role": "member",
+      "password_hash": "scrypt:586eb1932fe826278697d079dd061cb6:747d62c95ac3e5985fbb34e61d594eb97ccefd1720ba89a23d9f6c68fc277a5751bd7639c55e6ed486d47bd20f27ee66e6c7a48883c251775c185af1414a0263",
+      "created_at": "2026-10-10T06:47:04.040Z"
+    },
+    {
+      "id": 13,
+      "name": "TEST-User local-20261010T064727",
+      "email": "test-happy-path-local-20261010t064727@example.test",
+      "role": "member",
+      "password_hash": "scrypt:374be7a4b196e4f6e346f85cbf3b4567:2c5d0e8dfdb362c5b05a0b867ff93ba687c8d9bd4a67ce8f12157973d40150ab09ac15c3295ffea6cd3b1df18c9c8fe3da4910d9028d163d7c6a5cab3283e109",
+      "created_at": "2026-10-10T06:47:28.031Z"
+    },
+    {
+      "id": 14,
+      "name": "TEST-name-max-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+      "email": "test-name-max-length-local-20261010t064727@example.test",
+      "role": "member",
+      "password_hash": "scrypt:8d9cd482db57130a09b19225aafa6c90:f1056c0cf4fa4375eaf463154b5cffb2bcd4804a64d5d1cb09e9c2d1db6e9da7ada15752ab61a00321bb915d777dd050e4489e31c55700d1fd0894f50dadf606",
+      "created_at": "2026-10-10T06:47:28.222Z"
+    },
+    {
+      "id": 15,
+      "name": "TE",
+      "email": "test-name-min-length-local-20261010t064727@example.test",
+      "role": "member",
+      "password_hash": "scrypt:b5436b441f52ef0cbc4a6f3443042347:97199508e95f894606b8b25287b23f62a1d102233f556c9fa8f599e26c3e8d1b4025a4979cf35cefcdc2791ecdda07b47ad7077278cea660e76d9c7be2df5740",
+      "created_at": "2026-10-10T06:47:28.376Z"
+    },
+    {
+      "id": 16,
+      "name": "TEST-User local-20261010T064727",
+      "email": "test-password-max-length-local-20261010t064727@example.test",
+      "role": "member",
+      "password_hash": "scrypt:46b3db5b747060f7135e7aa0b6547f38:e8d7a3b63b36977c33482baf4b4c0c92cc26e3cdb425d288ec445327113eb3b3f98c7820198a1d3f06f48cd939f90286662d28e7611681f53fc864ff53497dee",
+      "created_at": "2026-10-10T06:47:28.536Z"
+    },
+    {
+      "id": 17,
+      "name": "TEST-User local-20261010T064727",
+      "email": "test-password-min-length-local-20261010t064727@example.test",
+      "role": "member",
+      "password_hash": "scrypt:3254a663355cae3737a0d3669b9c51e9:db1160894e50fdd0564f4d449817c529fee8a25dd511b9055a5ff5f7d27f5e66eba3df1cdcd538460c4c8eb34a4e0812d8de9121c3e6d3c7914257b4424cbcd3",
+      "created_at": "2026-10-10T06:47:28.691Z"
+    },
+    {
+      "id": 18,
+      "name": "TEST-User local-20261010T064730",
+      "email": "test-happy-path-local-20261010t064730@example.test",
+      "role": "member",
+      "password_hash": "scrypt:a8f9e14f01502bdbb0a0229ca3f2e531:bf3fadb30cc488c6d23bec98e23084a30667fb64da55ea6900838c0e3962ef43de1ef4e986af395c218a5937f7be522a61678e1e6a4bb2f82d531c32df057ab5",
+      "created_at": "2026-10-10T06:47:30.419Z"
+    },
+    {
+      "id": 19,
+      "name": "TEST-name-max-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+      "email": "test-name-max-length-local-20261010t064730@example.test",
+      "role": "member",
+      "password_hash": "scrypt:ca0928c3e40ab6d077a250b50210f80e:964b7e5c656430b055a5a44e682893bd09ac9025546370ab1213f9bf07448b29fbd766b70b4cdbd42236f690cc1dee33aac7868ed0c03c6b96d3e764eaf457f3",
+      "created_at": "2026-10-10T06:47:30.552Z"
+    },
+    {
+      "id": 20,
+      "name": "TE",
+      "email": "test-name-min-length-local-20261010t064730@example.test",
+      "role": "member",
+      "password_hash": "scrypt:a849be29219585e09f103a8fbc0c97bb:6fa97ba6abd0a8a2e7967708100f1c16cd0c9ef471af78e5082f1de9a116cc63cb8c8399bfb8f7f2e7139e7e1f27d60d53d565958daccc3275a71b0cebd620e9",
+      "created_at": "2026-10-10T06:47:30.722Z"
+    },
+    {
+      "id": 21,
+      "name": "TEST-User local-20261010T064730",
+      "email": "test-password-max-length-local-20261010t064730@example.test",
+      "role": "member",
+      "password_hash": "scrypt:4ef8954e792a05fadb5eace11a386661:1ab122658f9b05e81bbb092013d71a4cd2fe3847880e474eb1d622b65e6bc5fc6f8e6fb729be11c9fe38c79c1f05a25ee97ad7eaf0dbb7c7a060621879389c0f",
+      "created_at": "2026-10-10T06:47:30.872Z"
+    },
+    {
+      "id": 22,
+      "name": "TEST-User local-20261010T064730",
+      "email": "test-password-min-length-local-20261010t064730@example.test",
+      "role": "member",
+      "password_hash": "scrypt:6e3c922e41301daa8726bf9246c7bf84:36389891d79fde0d088c990064be27fe32b34a4089ee8a059705f93d9fc4d4f52857e2edb34b7e3629e91576a3e07c82cc8dfc5c04409caec1ef4581fdc55281",
+      "created_at": "2026-10-10T06:47:30.998Z"
+    },
+    {
+      "id": 23,
+      "name": "TEST-User local-20261010T101805",
+      "email": "test-happy-path-local-20261010t101805@example.test",
+      "role": "member",
+      "password_hash": "scrypt:f01c0612dfdae8499686ad0612011cf6:b90b17bea1407b2c08c91eab40896772d9cfc326ed56409e6350e1d729596502b01faac167da334c1540f8d80dfcb3eb5e7335e350d5725c87007966f9efa69b",
+      "created_at": "2026-10-10T10:18:05.495Z"
+    },
+    {
+      "id": 24,
+      "name": "TEST-name-max-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+      "email": "test-name-max-length-local-20261010t101805@example.test",
+      "role": "member",
+      "password_hash": "scrypt:f97f3a99e7cd69f12709638216d521ce:868834b74f4189d3e363c6008c54f0b2a83710346b8332e3daa9cb365a1a6ba7a365060259dd1dd7ac6c63688c4d1a97729f9f383f8091f45e3750f4be170980",
+      "created_at": "2026-10-10T10:18:05.672Z"
+    },
+    {
+      "id": 25,
+      "name": "TE",
+      "email": "test-name-min-length-local-20261010t101805@example.test",
+      "role": "member",
+      "password_hash": "scrypt:d1d6a75c0f96e46398f2fc8fa70dd970:508ec436c4a7206342703ac3f53fbf793ebd0f927def2f0cd29fe07c214147fcd3d102c5875133f04a28df00753a3b775e5115cc00bb5a3e981b1571fb52fdf8",
+      "created_at": "2026-10-10T10:18:05.805Z"
+    },
+    {
+      "id": 26,
+      "name": "TEST-User local-20261010T101805",
+      "email": "test-password-max-length-local-20261010t101805@example.test",
+      "role": "member",
+      "password_hash": "scrypt:b8777d51384063ac087c477e38e29919:af540043e46b2d221a38a4f18e8e134330f6b57ea77b3fe8d53ed5d0823df180364965841075ec2918f692e07857d20835378ad1357e24170bb59c1d78f2b2e6",
+      "created_at": "2026-10-10T10:18:05.962Z"
+    },
+    {
+      "id": 27,
+      "name": "TEST-User local-20261010T101805",
+      "email": "test-password-min-length-local-20261010t101805@example.test",
+      "role": "member",
+      "password_hash": "scrypt:5b008f5a2fd899db7eddd96924c2aa35:a7834c10599575bc4dcdeec8c5d988781dad22b80c87ccfb0604dca88d78c830f7a97a98e5d36ad4008670b4787be8715250973721502eaab7a51d801f04e5ed",
+      "created_at": "2026-10-10T10:18:06.062Z"
+    }
+  ]
+}

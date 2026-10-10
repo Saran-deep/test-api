@@ -1,0 +1,93 @@
+{
+  "nextId": 9,
+  "items": [
+    {
+      "id": 1,
+      "title": "The Pragmatic Programmer",
+      "author": "Andrew Hunt, David Thomas",
+      "isbn": "9780135957059",
+      "genre": "technology",
+      "published_year": 2019,
+      "total_copies": 3,
+      "created_at": "2026-10-10T04:12:20.233Z",
+      "updated_at": "2026-10-10T04:12:20.233Z"
+    },
+    {
+      "id": 2,
+      "title": "Clean Code",
+      "author": "Robert C. Martin",
+      "isbn": "9780132350884",
+      "genre": "technology",
+      "published_year": 2008,
+      "total_copies": 2,
+      "created_at": "2026-10-10T04:12:20.233Z",
+      "updated_at": "2026-10-10T04:12:20.233Z"
+    },
+    {
+      "id": 3,
+      "title": "Sapiens",
+      "author": "Yuval Noah Harari",
+      "isbn": "9780062316097",
+      "genre": "history",
+      "published_year": 2015,
+      "total_copies": 4,
+      "created_at": "2026-10-10T04:12:20.233Z",
+      "updated_at": "2026-10-10T04:12:20.233Z"
+    },
+    {
+      "id": 4,
+      "title": "A Brief History of Time",
+      "author": "Stephen Hawking",
+      "isbn": "9780553380163",
+      "genre": "science",
+      "published_year": 1998,
+      "total_copies": 2,
+      "created_at": "2026-10-10T04:12:20.233Z",
+      "updated_at": "2026-10-10T04:12:20.233Z"
+    },
+    {
+      "id": 5,
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "isbn": "9780061120084",
+      "genre": "fiction",
+      "published_year": 1960,
+      "total_copies": 5,
+      "created_at": "2026-10-10T04:12:20.233Z",
+      "updated_at": "2026-10-10T04:12:20.233Z"
+    },
+    {
+      "id": 6,
+      "title": "1984",
+      "author": "George Orwell",
+      "isbn": "9780451524935",
+      "genre": "fiction",
+      "published_year": 1949,
+      "total_copies": 1,
+      "created_at": "2026-10-10T04:12:20.233Z",
+      "updated_at": "2026-10-10T04:12:20.233Z"
+    },
+    {
+      "id": 7,
+      "title": "The Very Hungry Caterpillar",
+      "author": "Eric Carle",
+      "isbn": "9780399226908",
+      "genre": "children",
+      "published_year": 1969,
+      "total_copies": 2,
+      "created_at": "2026-10-10T04:12:20.233Z",
+      "updated_at": "2026-10-10T04:12:20.233Z"
+    },
+    {
+      "id": 8,
+      "title": "Educated",
+      "author": "Tara Westover",
+      "isbn": "9780399590504",
+      "genre": "non-fiction",
+      "published_year": 2018,
+      "total_copies": 0,
+      "created_at": "2026-10-10T04:12:20.233Z",
+      "updated_at": "2026-10-10T04:12:20.233Z"
+    }
+  ]
+}
